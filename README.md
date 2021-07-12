@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer&text=Hi%20There&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=100&section=footer&text=Hi%20There&fontSize=100)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true)
 
 <!--
