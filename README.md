@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=100&section=footer&text=Hi%20There&fontSize=100)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ChoiHyunHo&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=최현호&show_icons=true)
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
 
