@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer&text=Hi%20There&fontSize=100)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true)
 
 <!--
 **Choi-HyunHo/Choi-HyunHo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
