@@ -2,6 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=100&section=footer&text=Hi%20There&fontSize=100)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true)
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+
 
 <!--
 **Choi-HyunHo/Choi-HyunHo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
