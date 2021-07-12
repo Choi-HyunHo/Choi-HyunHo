@@ -4,7 +4,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ChoiHyunHo&show_icons=true)
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 <a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-<a href="https://Java.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Java-007369?style=flat-square&logo=Java&logoColor=white"/></a>
+<a href="https://Java.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Java-007769?style=flat-square&logo=Java&logoColor=white"/></a>
 
 
 
