@@ -3,6 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=100&section=footer&text=Im%20HyunHo&fontSize=100)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ChoiHyunHo&show_icons=true)
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 
 <!--
