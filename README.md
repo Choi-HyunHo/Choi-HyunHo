@@ -3,6 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=footer&text=I'm%20HyunHo&fontSize=100)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ChoiHyunHo&show_icons=true)
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+<a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+
 
 
 <!--
