@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=footer&text=I'm%20HyunHo&fontSize=100)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ChoiHyunHo&show_icons=true)
 <a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-<a href="https://Java.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Java-007769?style=flat-square&logo=Java&logoColor=white"/></a>
+<a href="https://Java.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <a href="https://HTML5.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <a href="https://CSS3.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 
