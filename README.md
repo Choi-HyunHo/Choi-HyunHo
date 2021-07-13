@@ -1,8 +1,7 @@
 ### 안녕하세요! 개발자 최현호입니다 👋
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Choi-HyunHo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choi-HyunHo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Choi-HyunHo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <a href="https://Java.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
