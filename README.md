@@ -1,6 +1,6 @@
 ### 안녕하세요! 개발자 최현호입니다 👋
 
-![header](https://I'm-HyunHo.vercel.app/api?type=wave&color=auto&height=300&section=header&text=I'm%20HyunHo&fontSize=90)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Choi-HyunHo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choi-HyunHo)](https://github.com/anuraghazra/github-readme-stats)
 
