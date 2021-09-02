@@ -1,4 +1,4 @@
-### 안녕하세요! 최현호입니다 👋
+### 안녕하세요! 최현호입니다 🌱 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Choi%20HyunHo&fontSize=90)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choi-HyunHo)](https://github.com/anuraghazra/github-readme-stats)
