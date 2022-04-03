@@ -1,6 +1,7 @@
 ### 안녕하세요👋 공부하는 개발자 최현호 입니다🌱 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Choi%20HyunHo&fontSize=90)
 
+[![Choi-HyunHo wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Choi-HyunHo)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choi-HyunHo)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Choi-HyunHo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
