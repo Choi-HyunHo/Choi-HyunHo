@@ -3,7 +3,7 @@
 
 <br>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hoho_0815)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hoho_0815&color=dark)](https://choi-hyunho.com/)
 
 <br>
 
