@@ -15,7 +15,7 @@
 <br>
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,styledcomponents)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,styledcomponents)
 
 
 
