@@ -6,6 +6,8 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hoho_0815&color=dark)](https://choi-hyunho.com/)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Choi-HyunHo&theme=tokyonight&hide_border=true&locale=ko)](https://git.io/streak-stats)
+
 <br>
 
 ## Career
