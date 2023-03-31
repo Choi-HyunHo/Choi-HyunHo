@@ -1,8 +1,6 @@
 ## Choi Hyun Ho
 
-🧑🏻‍💻 Front-end Developer
-
-<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Front-End+Developer)](https://git.io/typing-svg)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hoho_0815&color=dark)](https://choi-hyunho.com/)
 
