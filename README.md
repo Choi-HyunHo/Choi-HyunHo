@@ -12,6 +12,7 @@
 
 비플라이소프트 #Bflysoft <br>
 → 로제우스 서비스 Front 개발 (2022.06 ~ )
+→ [로제우스-ROZEUS](https://rozeus.com/)
 
 <br>
 
