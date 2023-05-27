@@ -20,7 +20,3 @@
 ## Tech Stack
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,styledcomponents,tailwind)
-
-<!-- <br>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Choi-HyunHo&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
