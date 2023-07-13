@@ -8,7 +8,7 @@
 ## Career
 
 비플라이소프트 #Bflysoft <br>
-→ 로제우스 서비스 Front 개발 (2022.06 ~ 2023.06) [#로제우스-ROZEUS](https://rozeus.com/)
+→ 로제우스 서비스 개발 및 유지보수 (2022.06 ~ 2023.06) [#로제우스-ROZEUS](https://rozeus.com/)
 
 <br>
 
