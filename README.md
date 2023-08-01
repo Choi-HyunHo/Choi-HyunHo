@@ -15,4 +15,5 @@
 
 ## Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,styledcomponents,tailwind)
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
+![My Skills](https://skillicons.dev/icons?i=next,styledcomponents,tailwind)
