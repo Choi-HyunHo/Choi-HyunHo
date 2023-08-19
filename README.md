@@ -6,7 +6,8 @@
 <br>
 
 ## Career
-오내피플 #O.NE PEOPLE (2023.07 ~ )
+오내피플 #O.NE PEOPLE <br>
+→ 캐치시큐(Catchsecu) (2023.07 ~ )  [#캐치시큐](https://www.catchsecu.com/)
 
 비플라이소프트 #Bflysoft <br>
 → 로제우스 서비스 개발 및 유지보수 (2022.06 ~ 2023.06) [#로제우스-ROZEUS](https://rozeus.com/)
