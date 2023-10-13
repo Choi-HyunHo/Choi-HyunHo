@@ -1,10 +1,5 @@
 ## Choi Hyun Ho
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Front-End+Developer)](https://git.io/typing-svg)
-
-
-<br>
-
 ## Career
 오내피플 **#O.NE PEOPLE** <br>
 → 캐치시큐(Catchsecu) (2023.07 ~ )  [#캐치시큐](https://www.catchsecu.com/)
