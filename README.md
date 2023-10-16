@@ -1,5 +1,10 @@
 ## Choi Hyun Ho
 
+Frontend Developer.
+
+<br/>
+
+
 ## Career
 오내피플 **#O.NE PEOPLE** <br>
 → 캐치시큐(Catchsecu) (2023.07 ~ )  [#캐치시큐](https://www.catchsecu.com/)
