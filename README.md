@@ -9,7 +9,7 @@ Frontend Developer.
 오내피플 **#O.NE PEOPLE** <br>
 → 캐치시큐(Catchsecu) (2023.07 ~ )  [#캐치시큐](https://www.catchsecu.com/)
 
-비플라이소프트 **#Bflysoft** <br>
+비큐AI **#BECUAI** <br>
 → 로제우스(Rozeus) (2022.06 ~ 2023.06) [#로제우스](https://rozeus.com/)
 
 <br>
