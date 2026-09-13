@@ -1,5 +1,5 @@
 ## Choi Hyun Ho
-<h4><sup><b>조이토이(joytoy)</b> [#pickandpop](https://www.pickandpop.co.kr/) & [#NIQUNEQU](https://nqnq.co.kr/) FE developer (2024.02 - 2026.01)</sup></h4>  
+<h4><sup><b>조이토이(joytoy)</b> [#픽앤팝](https://www.pickandpop.co.kr/) & [#니쿠내쿠](https://nqnq.co.kr/) FE developer (2024.02 - 2026.01)</sup></h4>  
 <h4><sup><b>에프오에프(FOF)</b> [#STANDBUY](https://www.standbuy.io/) FE developer (2024.02 - 2026.01)</sup></h4>  
 <h4><sup><b>오내피플(O.NE PEOPLE)</b> [#캐치시큐](https://www.catchsecu.com/) FE developer (2023.07 ~ 2024.01)</sup></h4>  
 <h4><sup><b>비큐AI(BECUAI)</b>  [#로제우스](https://rozeus.com/)  FE developer (2022.06 ~ 2023.06)</sup></h4>  
